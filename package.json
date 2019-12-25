@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "babel-preset-env": "^1.7.0",
-    "jquery": "~3.0.0",
+    "jquery": "~3.4.0",
     "scrollreveal": "^4.0.5",
     "what-input": "^4.1.3"
   },
